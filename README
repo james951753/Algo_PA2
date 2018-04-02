@@ -1,10 +1,10 @@
 This is README file for Algorithm PA#2
-Author: <please fill in name and student ID>
-Date:
+Author: Chou Ming Te b04505001
+Date:2018/4/2
 =====
 SYNOPSIS:
 
-
+WorkerAnt -[DP|GD] <input_file_name> <output_file_name>
 =====
 DIRECTORY:
 
@@ -23,6 +23,10 @@ HOW TO CIMPILE:
 
 ======
 HOW TO RUN:
+  cd bin/
+	./bin/WorkerAnt -[DP|GD] <input_file_name> <output_file_name>
+	For example,
+	./bin/WorkerAnt -DP inputs/case1.in outputs/case1.out
 
 ======
 OTHER NOTICE:
